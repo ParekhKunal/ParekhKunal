@@ -4,6 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hybrid language
 - 🌱 I’m currently learning flutter
+- 🔭 I’m an Android Developer
 - 📫 How to reach me: parekhkunal09@gmail.com </br><hr>
 My Repo : <a href="https://github.com/kunalparekh9">kunalparekh9</a><hr>
 ### Connect with me:
