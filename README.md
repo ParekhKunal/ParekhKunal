@@ -14,12 +14,20 @@ Here are some ideas to get you started:
 - 🔭 I’m an Android Developer
 - 📫 How to reach me: parekhkunal09@gmail.com </br><hr>
 My Repo : <a href="https://github.com/kunalparekh9">kunalparekh9</a><hr>
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+ 
 ### Connect with me:
 
-<a href="#"> <img align="left" alt="kunalparekh9 | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="#"><img align="left" alt="kunalparekh9 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/kunal-parekh-4029311a5/"><img align="left" alt="kunalparekh9 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/_kunalparekh_/"><img align="left" alt="kunalparekh9 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<p align="center">
+ <a href="https://www.linkedin.com/in/kunal-parekh-4029311a5/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:8px"></a>
+  <a href="https://www.instagram.com/_kunalparekh_/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="instagram" height="40" style="vertical-align:top; margin:8px"> </a>
+<a href="https://twitter.com/KUNALPA05063250" target="_blank" rel="noopener noreferrer"> <img src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" alt="twitter" height="40" style="vertical-align:top; margin:8px"> </a>
+</p>
+
 
 <br />
 
