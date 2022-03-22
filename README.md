@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalparekh9&show_icons=true&locale=en&layout=compact" alt="kunalparekh9"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalparekh9&show_icons=true&locale=en" alt="kunalparekh9"  /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalparekh9&" alt="kunalparekh9" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParekhKunal&show_icons=true&locale=en&layout=compact" alt="ParekhKunal"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ParekhKunal&show_icons=true&locale=en" alt="ParekhKunal"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParekhKunal&" alt="ParekhKunal" /></p>
 
 
